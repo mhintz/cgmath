@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Array","An array containing elements of type `Element`"],["ElementWise","Element-wise arithmetic operations. These are supplied for pragmatic reasons, but will usually fall outside of traditional algebraic properties."]]});

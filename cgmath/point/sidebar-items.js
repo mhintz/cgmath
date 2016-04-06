@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Point2","A point in 2-dimensional space."],["Point3","A point in 3-dimensional space."]],"trait":[["Point","Points in a Euclidean space with an associated vector space, `Self::Vector`."]]});
